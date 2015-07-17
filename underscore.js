@@ -85,20 +85,6 @@ var _ = {
                 newArray.push(sample++);
             }
             return newArray;
+          }
         }
-    },
-
-    //9
-    difference: function(array1,array2) {
-      for (var i = 0; i <= array1.length; i++) {
-        while (indexOf(array1))
-
-
-      }
-
-
-    }
-
-
-
-};
+      };
